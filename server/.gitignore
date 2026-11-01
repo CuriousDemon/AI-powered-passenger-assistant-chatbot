@@ -1,0 +1,6 @@
+.env
+node_modules
+cleardb.js
+listModels.js
+dist/
+.DS_Store
